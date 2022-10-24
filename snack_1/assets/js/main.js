@@ -65,7 +65,7 @@ const zucchine = [
 let pesoTot=0
 zucchine.forEach(zucchina => {
     pesoTot+=zucchina.peso;
-    console.log(pesoTot);
+   
 });
 
 console.log(pesoTot);
